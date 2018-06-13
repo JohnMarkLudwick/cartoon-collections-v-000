@@ -1,10 +1,10 @@
 array = ["Doc", "Dopey", "Bashful", "Grumpy",]
 
-def roll_call_dwarves(index, dwarves)
+def roll_call_dwarves(index, name)
   i = 0
   while i < dwarve.length
-    puts 
-  
+    puts "#{index[]} #{name}"
+  end
   
 end
 
