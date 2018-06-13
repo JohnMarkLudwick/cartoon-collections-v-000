@@ -13,7 +13,8 @@ def summon_captain_planet(collection)
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
   planeteer_calls.map {|element| element.capitalize}
   planeteer_calls.each { |element| puts element + '!' } 
-  return 
+end
+summon_captain_planet
 
 end
 
