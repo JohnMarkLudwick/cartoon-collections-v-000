@@ -4,6 +4,7 @@ def roll_call_dwarves(index, name)
   i = 0
   while i < dwarve.length
     puts "#{index[]} #{name}"
+    i = i + 1
   end
   
 end
