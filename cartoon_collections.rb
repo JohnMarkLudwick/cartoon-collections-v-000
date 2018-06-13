@@ -1,4 +1,4 @@
-array = ["Doc", "Dopey", "Bashful", "Grumpy"]
+array = ["Doc", "Dopey", "Bashful", "Grumpy", "Sleepy", ]
 
 def roll_call_dwarves# code an argument here
   # Your code here
