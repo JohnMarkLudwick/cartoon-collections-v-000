@@ -1,8 +1,9 @@
 array = ["Doc", "Dopey", "Bashful", "Grumpy",]
 
-def roll_call_dwarves(dwarves)
+def roll_call_dwarves(index, dwarves)
   i = 0
-  while co
+  while i < dwarve.length
+    puts 
   
   
 end
