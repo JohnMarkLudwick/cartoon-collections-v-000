@@ -23,7 +23,12 @@ end
 
 
 # def summon_captain_planet(collection)
-#   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+  nu_array = []
+  i = 0
+  while i < array.length
+    nu_array << array[i]
+  
+# planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 #   planeteer_calls.map! {|element| element.capitalize}
 #   planeteer_calls.each { |element| puts element + '!' } 
 
