@@ -11,7 +11,7 @@ end
 
 def summon_captain_planet(collection)
   planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-  planeteer_calls.map! {
+  planeteer_calls.map! {|element| 
   
   
 end
