@@ -1,6 +1,6 @@
 array = ["Doc", "Dopey", "Bashful", "Grumpy",]
 
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(dwarves)
   i = 0
   while co
   
